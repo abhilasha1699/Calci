@@ -1,0 +1,14 @@
+C:\Users\ANIKET\source\repos\Calci\Calci\bin\Debug\netstandard2.0\Calci.deps.json
+C:\Users\ANIKET\source\repos\Calci\Calci\bin\Debug\netstandard2.0\Calci.dll
+C:\Users\ANIKET\source\repos\Calci\Calci\bin\Debug\netstandard2.0\ref\Calci.dll
+C:\Users\ANIKET\source\repos\Calci\Calci\bin\Debug\netstandard2.0\Calci.pdb
+C:\Users\ANIKET\source\repos\Calci\Calci\obj\Debug\netstandard2.0\Calci.csprojAssemblyReference.cache
+C:\Users\ANIKET\source\repos\Calci\Calci\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ANIKET\source\repos\Calci\Calci\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ANIKET\source\repos\Calci\Calci\obj\Debug\netstandard2.0\Calci.AssemblyInfoInputs.cache
+C:\Users\ANIKET\source\repos\Calci\Calci\obj\Debug\netstandard2.0\Calci.AssemblyInfo.cs
+C:\Users\ANIKET\source\repos\Calci\Calci\obj\Debug\netstandard2.0\Calci.csproj.CoreCompileInputs.cache
+C:\Users\ANIKET\source\repos\Calci\Calci\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ANIKET\source\repos\Calci\Calci\obj\Debug\netstandard2.0\Calci.dll
+C:\Users\ANIKET\source\repos\Calci\Calci\obj\Debug\netstandard2.0\ref\Calci.dll
+C:\Users\ANIKET\source\repos\Calci\Calci\obj\Debug\netstandard2.0\Calci.pdb
